@@ -1,3 +1,4 @@
+package main;
 /**
  * Automeo's main entry point.
  * --------------------------
